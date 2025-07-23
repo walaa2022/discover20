@@ -678,14 +678,14 @@ body {
 
 .stats-container {
   position: relative;
-  bottom: -30px;
-  top: 30vh;
+  bottom: -50px;
+  top: 35vh;
   transform: translateY(-50%);
   background: rgba(93, 88, 88, 0.6);
   display: inline-flex;
   justify-content: space-around;
   align-items: center;
-  height: 420px;
+  height: 500px;
   width: 100%;
   z-index: 2;
 }
